@@ -24,6 +24,6 @@ arr2 = [1,2,3,4]
 print ("The popped element is : ",arr2.pop(2))
  
 
-arr2 = [1,2,3,4]
+arr2 = [4,3,2,1]
 # using index() to index element at 1nd position
 print ("The index element is : ",arr2.index(1))
